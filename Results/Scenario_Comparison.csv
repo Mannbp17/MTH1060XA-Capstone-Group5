@@ -1,0 +1,9 @@
+Scenario,AverageUsersReached,AverageReachPercentage,StandardDeviation
+random | Low trust | Low-virality content,1.6,1.6,1.26491106406735
+random | Low trust | High-virality content,4.9,4.9,6.75688948818578
+random | High trust | Low-virality content,6.7,6.7,10.614978934401
+random | High trust | High-virality content,78.3,78.3,27.9008163958612
+small-world | Low trust | Low-virality content,1.2,1.2,0.421637021355784
+small-world | Low trust | High-virality content,4.1,4.1,5.15213008807468
+small-world | High trust | Low-virality content,4.4,4.4,5.58171618371586
+small-world | High trust | High-virality content,69.7,69.7,37.0406683405026
